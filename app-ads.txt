@@ -1,0 +1,2 @@
+# LingJi Apps - AdMob authorization
+google.com, pub-5559815122773332, DIRECT, f08c47fec0942fa0
