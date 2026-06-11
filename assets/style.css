@@ -102,6 +102,14 @@ a:hover { color: #005a9e; text-decoration: underline; }
   text-decoration: underline;
 }
 
+.highlight {
+  background-color: #f2f7ff;
+  border-left: 4px solid #0070c9;
+  padding: 0.9rem 1.1rem;
+  border-radius: 6px;
+  margin: 1.5rem 0;
+}
+
 footer {
   margin: 0 auto;
   max-width: 860px;
